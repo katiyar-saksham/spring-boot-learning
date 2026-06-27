@@ -1,14 +1,17 @@
 package com.saksham;
 
-public class OrderService {
-    private PaymentService paymentService;
+import org.springframework.stereotype.Component;
 
-    public OrderService(PaymentService paymentService) {
-        this.paymentService = paymentService;
-    }
+@Component
+public class OrderService {
+//    private PaymentService paymentService;
+
+//    public OrderService(PaymentService paymentService) {
+//        this.paymentService = paymentService;
+//    }
 
     public void placeOrder() {
-        paymentService.pay();
+//        paymentService.pay();
         System.out.println("Order Placed");
     }
 }
