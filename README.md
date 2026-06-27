@@ -1,17 +1,15 @@
 # 🚀 Spring Boot Learning Journey
 
-Welcome to my daily progress repository where I track my learning journey in Spring Boot! This repository contains my daily practice code, notes, and demos.
+Welcome to my repository where I track my daily learning progress in Spring Boot!
 
 ---
 
-## 📅 Daily Progress Tracker
+## 📅 Daily Progress
 
-| Day | Topic | Key Concepts / Highlights | Project / Code Link | Status |
-| :--- | :--- | :--- | :--- | :---: |
-| **Day 1** | Spring Core & Dependency Injection | IOC Container, ApplicationContext, Dependency Injection, Beans definition. | 📂 [CoreDemo](./CoreDemo) |  |
-| **Day 2** | Maven & Project Structuring | Understanding `pom.xml`, dependency management, Maven plugins, build lifecycle. | 📂 [MavenDemo](./MavenDemo) |  |
-| **Day 3** | Spring Boot Starters & Web | Spring Boot autoconfiguration, creating a simple REST controller, starting Tomcat. | 📂 [demo](./demo) |  |
-| **Day 4** | *Incoming...* | Learn Controller mapping, Request parameters, Path variables, JSON responses. | - | ⏳ |
+- **Day 1**: Spring Core & Dependency Injection
+- **Day 2**: Maven & Project Structuring
+- **Day 3**: Spring Boot Starters & Web
+- **Day 4**: *Learning in progress...*
 
 ---
 
