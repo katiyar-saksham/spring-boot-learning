@@ -11,8 +11,8 @@ public class Main {
         OrderService order = context.getBean(OrderService.class);//Uses Reflection
         order.placeOrder();
 
-        PaymentService payment = context.getBean(PaymentService.class);
-        payment.pay();
+//        PaymentService payment = context.getBean(PaymentService.class);
+//        payment.pay();
     }
 }
 
