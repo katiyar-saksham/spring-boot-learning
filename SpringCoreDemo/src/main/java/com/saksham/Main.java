@@ -16,7 +16,8 @@ public class Main {
 
 
         User u = context.getBean(User.class);
-        System.out.println(u.getName());;
+        System.out.println(u.getName());
+        ;
     }
 }
 
